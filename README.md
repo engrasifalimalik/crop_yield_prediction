@@ -6,6 +6,8 @@ Agriculture is increasingly driven by data, yet predicting crop remains a comple
 This project focuses on developing machine learning models to predict crop yield using agricultural datasets. The goal is to explore how data-driven approaches can support **intelligent decision-making in agriculture**, contributing to improved productivity and sustainable farming practices. 
 The project is structured following a reproducible machine learning pipeline, reflecting best practices in research-oriented software development.
 
+The training pipeline includes multiple machine learning models with appropriate preprocessing techniques, ensuring a fair and systematic comparison.A comparative evaluation of multiple machine learning models was conducted using accuracy, precision, recall, and F1-score to identify the most suitable approach for agricultural prediction tasks.
+
 ---
 
 ## 🎯 Objectives
@@ -70,11 +72,12 @@ Models were evaluated using:
 
 The machine learning models demonstrate the ability to capture relationships between environmental factors and crop yield.
 
-Key observations:
+**Key observations**
 
 - Tree-based models (e.g., Random Forest) performed better for non-linear relationships  
 - Environmental variables such as humidity, ph, water availability, seaon, and temperature significantly impact crop_prediction  
-- Model performance improves with better feature engineering and data quality  
+- Model performance improves with better feature engineering and data qualityRandom Forest achieved the best performance, indicating the presence of non-linear relationships in agricultural data.
+  
 
 ---
 
