@@ -1,7 +1,7 @@
-#  Crop Yield Prediction using Machine Learning
+#  Crop Prediction using Machine Learning
 
 ## Overview
-Agriculture is increasingly driven by data, yet predicting crop yield remains a complex challenge due to the influence of multiple factors such as weather conditions, soil properties, and environmental variability.
+Agriculture is increasingly driven by data, yet predicting crop remains a complex challenge due to the influence of multiple factors such as weather conditions, soil properties, and environmental variability.
 
 This project focuses on developing machine learning models to predict crop yield using agricultural datasets. The goal is to explore how data-driven approaches can support **intelligent decision-making in agriculture**, contributing to improved productivity and sustainable farming practices. 
 The project is structured following a reproducible machine learning pipeline, reflecting best practices in research-oriented software development.
